@@ -19,5 +19,6 @@ public class Ifelse {
 		else{
 			System.out.println("Boa noite.");
 		}		
+		sc.close();
 	}
 }
