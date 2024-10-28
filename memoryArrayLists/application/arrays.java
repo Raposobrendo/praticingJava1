@@ -3,11 +3,10 @@ package application;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class arrays {
+public class Arrays {
 	public static void main(String[] Args) {
 		Locale.setDefault(Locale.US);
-		medium();
-		
+		medium();		
 	}
 		
 	public static void medium() {
