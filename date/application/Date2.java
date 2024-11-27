@@ -33,5 +33,13 @@ public class Date2 {
 		System.out.println("d06 = " + fmt5.format(d06));
 		System.out.println("d06 = " + d06.toString());
 		
+		System.out.println("d04 day: " + d04.getDayOfMonth());
+		System.out.println("d04 month: " + d04.getMonth());
+		System.out.println("d04 year: " + d04.getYear());
+		
+		System.out.println("d05 hour: " + d05.getHour());
+		System.out.println("d05 minute: " + d05.getMinute());
+		
+		
 	}
 }
